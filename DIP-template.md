@@ -36,3 +36,5 @@ The reference implementation must be provided before PIP is Completed.
 ## Links
 
 References and links to relevant material
+
+[This template author is Herman Schoenfeld](https://github.com/PascalCoin/PascalCoin/blob/master/PIP/PIP-template.md)
