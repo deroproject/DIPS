@@ -1,10 +1,10 @@
 <pre>
-  PIP: *reserved for PIP editor*
-  Title: Title for your PIP
+  DIP: *reserved for DIP editor*
+  Title: Title for your DIP
   Type: Protocol | Backend | Front-End | Informational | Process
   Impact: [Hard-Fork|Soft-Fork|None] - [Protcol | API | GUI | Mobile | Other]
   Author: Firstname Lastname <i>&lt;your@email.com&gt;</i>
-  Comments-URI: *reserved for PIP editor*
+  Comments-URI: *reserved for DIP editor*
   Status: Draft
   Created: YYYY-MM-DD
 </pre>
@@ -15,7 +15,7 @@ Short (~200 word) description of the technical issue being addressed
  
 ## Motivation
 
-Clear explanation of why current protocol is inadequate to address the problem the PIP solves. 
+Clear explanation of why current protocol is inadequate to address the problem the DIP solves. 
 
 ## Specification
 
@@ -31,10 +31,10 @@ Any backwards incompatibilities should be described here, as well as work-around
  
 ## Reference Implementation
 
-The reference implementation must be provided before PIP is Completed.
+The reference implementation must be provided before DIP is Completed.
  
 ## Links
 
 References and links to relevant material
 
-[This template author is Herman Schoenfeld](https://github.com/PascalCoin/PascalCoin/blob/master/PIP/PIP-template.md)
+[This template reference copied from Herman Schoenfeld](https://github.com/PascalCoin/PascalCoin/blob/master/PIP/PIP-template.md)
