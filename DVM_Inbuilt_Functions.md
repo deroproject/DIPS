@@ -4,7 +4,14 @@ Suggestions are invited for inbuilt functions for DERO Virtual Machine [DVM](htt
 #### DERO Virtual Machine (DVM) 
 DERO Virtual Machine represents entire DERO Smart Contracts eco-system which runs on the DERO block chain.  
 
-#### Documentation
+#### Read more about DVM and DERO Smart Contracts.
+- [Dero Virtual Machine](https://github.com/deroproject/wiki/wiki/Dero-Virtual-Machine)
+- [DVM DOCS](https://git.dero.io/DeroProject/dvm_doc) 
+- [Dero First Smart Contract](https://github.com/deroproject/wiki/wiki/Dero-Smart-Contract-Example)
+- [Other Smart Contract Examples](https://forum.dero.io/t/dero-smart-contract-build-competition/891)
+
+
+#### DVM Documentation
 
 DVM is a decentralized platform that runs both public and private smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.Public Smart contracts are open versions. However, the  DVM is being designed to support Private Smart Contracts where everything is hidden, eg parties, and information involved. Smart Contracts are nothing but rules which apply on transacting parties.
 
