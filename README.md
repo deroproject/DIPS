@@ -7,7 +7,7 @@ Having a DIP here does not make it a formally accepted standard until its status
 
 |Number| 	Layer| 	Title |	Owner |	Type |Fork Requirement|Impact	|Status |
 |------|-------|--------|-------|------|---------------|--------|-------|
-| 1| Mining| CPU mining | Captain|  Standard| Hard Fork|Protocol|In process|
+| [1](https://github.com/deroproject/astrobwt)| Mining| CPU mining | Captain|  Standard| Hard Fork|Protocol|In process|
 | [2](https://github.com/deroproject/DIPS/blob/master/DVM_Inbuilt_Functions.md)| [DVM](https://github.com/deroproject/wiki/wiki/Dero-Virtual-Machine)| DVM Inbuilt Functions | Captain|  Standard| Hard Fork|DVM Protocol|[In discussions](https://github.com/deroproject/DIPS/issues/1)|
 
 
